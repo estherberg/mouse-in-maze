@@ -13,6 +13,8 @@ Pour compiler le projet vous avez besoin des lignes de commandes suivante dans u
 
 g++ *.cpp -o test
 ./test
+
+
 MAC : Suivre ce tutoriel :
 https://code.visualstudio.com/docs/cpp/config-clang-mac
 
