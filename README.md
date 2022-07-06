@@ -12,6 +12,7 @@ et a l'etape 4 suivre les instructions pour installer mingw : https://www.msys2.
 Pour compiler le projet vous avez besoin des lignes de commandes suivante dans un terminal sur visual studio code: Attention veillez a bien vous trouvez dans l'arboresence du dossier mouse-in-maze :
 
 g++ *.cpp -o test
+
 ./test
 
 
